@@ -39,7 +39,9 @@ The model depends on several physical and numerical parameters:
 - `α`: fractional order of the time derivative.
 - `Ste`: Stefan number.
 - `Bi`: Biot number.
-- `U_0`, `U_inf`, `U_m`: characteristic temperatures.
+- `U_0`: characteristic temperature.
+- `U_m`: melting temperature.
+- `U_inf`: ambient temperature. 
 - `M`: number of terms in the series expansion.
 - `N`: number of iterations in the bisection method.
 
